@@ -1,6 +1,6 @@
-# flo_customer_analysis-
-# 🛍️ FLO Customer Analytics Project
-# 🛍️ FLO Customer Analytics Project
+# clo_customer_analysis-
+# 🛍️ cLO Customer Analytics Project
+# 🛍️ cLO Customer Analytics Project
 
 This project aims to analyze customer transaction behavior based on the FLO dataset using SQL and Excel. The data includes online and offline shopping metrics, channels, categories, and customer segmentation. Both SQL queries and visual insights from Excel are presented.
 
